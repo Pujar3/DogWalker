@@ -14,4 +14,3 @@ public class Main {
         System.out.println("$" + w.dogWalkShift(7,10) + ".00 earned");
     }
 }
-
